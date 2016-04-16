@@ -1,0 +1,16 @@
+{
+  "name": "o1v96-midi",
+  "version": "0.1.0",
+  "description": "Outputs \"ON!\" if any of the 4 first channels are on. Could be combined with a proper output device.",
+  "main": "input.js",
+  "dependencies": {
+    "lodash": "^4.11.1",
+    "midi": "^0.9.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
